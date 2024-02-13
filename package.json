@@ -1,0 +1,23 @@
+{
+  "name": "js7.2hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EgorGruzdev91/NodeJsHw.git"
+  },
+  "author": "EgorGruzdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EgorGruzdev91/NodeJsHw/issues"
+  },
+  "homepage": "https://github.com/EgorGruzdev91/NodeJsHw#readme",
+  "dependencies": {
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.5"
+  }
+}
